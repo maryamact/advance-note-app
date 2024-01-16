@@ -12,7 +12,7 @@ Advanced Note App is a React-based web application that allows users to create, 
 - React.js + Vite and TypeScript for the front-end
 - Use Custom hooks
 - Local Storage for database
-- Material-UI for the UI components and styling
+- Bootstrap for the UI components and styling
 - React Router for client-side routing
 
 
